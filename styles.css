@@ -2,6 +2,10 @@ body {
     background: rgb(237, 238, 243);
 }
 
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .outer {
     background-color: white;
     padding: 12px;
@@ -24,6 +28,7 @@ body {
 .content {
     background: rgb(250, 237, 237);
     padding: 8px;
+    margin: 0px;
 }
 
 .recipelistborder li {
