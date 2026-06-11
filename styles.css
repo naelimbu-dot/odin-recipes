@@ -29,6 +29,11 @@ a, a:hover, a:focus, a:active {
     align-items: center;
     flex-wrap: wrap;
     gap: 16px;
+
+}
+
+.round {
+    border-radius: 8px;
 }
 
 .header p {
@@ -67,6 +72,7 @@ a, a:hover, a:focus, a:active {
     outline: solid black 2px;
     background: white;
     padding: 8px;
+    border-radius: 8px;
 }
 
 .blue {
